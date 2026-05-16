@@ -1,0 +1,18 @@
+[
+  {
+    "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YouTubeCSPlugin/builds/YouTubeProvider.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "YouTube (No Ads)",
+    "internalName": "YouTubeProvider",
+    "authors": ["YOUR_NAME"],
+    "description": "Watch YouTube ad-free via Invidious direct streams + WebView fallback",
+    "repositoryUrl": "https://github.com/YOUR_GITHUB_USERNAME/YouTubeCSPlugin",
+    "language": "en",
+    "tvTypes": ["Others"],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=youtube.com&sz=64",
+    "apiVersion": 1,
+    "fileSize": 0,
+    "fileHash": ""
+  }
+]
